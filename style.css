@@ -1,3 +1,5 @@
+/*MAIN*/
+
 /*VARIABLES*/
 :root {
     --pewter: #dfdfe3;
@@ -5,8 +7,6 @@
     --olive-green: #A3AA5A;
     --nude: #E7C46A;
 }
-
-/*MAIN*/
 
 /*NAV BAR*/
 #nav-bar {
@@ -71,4 +71,11 @@
     width: 500px;
 }
 
+#dark-mode {
+    font-size: 25px;
+    background-color: grey;
+    opacity: 0.75;
+    box-shadow: 2px 2px 4px darkgrey;
+    border-radius: 25%;
+}
 
